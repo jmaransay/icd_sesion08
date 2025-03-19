@@ -18,6 +18,8 @@ brew update --force --quiet
 
 brew install actionlint
 
+brew install gh
+
 # brew postinstall gcc
 
 # brew update --force --quiet
